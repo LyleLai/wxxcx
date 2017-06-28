@@ -1,11 +1,11 @@
 {
-    "name": "iwanli/wxxcx",
-    "description": "A WeChat applet (xiaochengxu) plugins for Laravel 5.",
+    "name": "lyle-lai/wxxcx",
+    "description": "A WeChat applet (xiaochengxu) plugins for Laravel 5. Fork from github.com/lanceWan/wxxcx",
     "license": "MIT",
     "authors": [
         {
-            "name": "晚黎",
-            "email": "ibanya@126.com"
+            "name": "Lyle Lai",
+            "email": "283963103@163.com"
         }
     ],
     "minimum-stability": "stable",
